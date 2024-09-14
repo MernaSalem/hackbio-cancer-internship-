@@ -12,15 +12,6 @@ We found that 12.9% of the data was missing. After cleaning the data, we ended u
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfckKtn0Wf-5Su9qDfd48Low1N0asPalXoIq5FEQzF-grXiU3TNJaCs6QAF-Sx-GNmIBdepL-tVjM2FqQdKmAOE-3XEFHY1zXXzd-fQ8tKXTNL8HMzgkrhD9eV8idU7LVdM0yY4QT-5NihSTH_ErjAL73w?key=5PtJDuPWXv5M3srZT2Fw7Q)
 
 **Figure 1** represents the distribution of product types.
-
-\
-\
-\
-\
-\
-\
-\
-\
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQE-6mh_urPQ-edcr6lSeGVGOatW8ww2P6MRhTFMtmzKVYEeV7BDOsJRhtJ3bkAchpu5KYsaD3UM7WNkaO-Pvkz-gAvnuvNktJfnnoTAWokMqzjmcXrUl2KXfWOQ1wg5HNmHcMdLMY-S4g1tcqWl95rRMS?key=5PtJDuPWXv5M3srZT2Fw7Q)
 
 **Figure 2.** Number of products in each R\&D phase.
@@ -71,7 +62,7 @@ The data depicted in the heatmap (figure 9) indicates that TRL1068 has the highe
 
 The analysis of WHO AMR products data shows that the majority of products are in Phase I of development, indicating a focus on early-stage candidates. Bacteriophages dominate as a non-traditional therapy, reflecting a shift away from traditional antibiotics. Most products are administered intravenously, aimed at severe infections, with a smaller focus on oral routes. Phase I products show the highest activity against priority pathogens like Enterobacterales, with TRL1068 standing out as a key product to watch. Continued focus on these early-stage products is crucial for addressing AMR challenges.
 
-\
+
 
 
 <!--EndFragment-->
