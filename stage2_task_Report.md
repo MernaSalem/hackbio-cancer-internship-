@@ -11,14 +11,15 @@ Authors (@slack): Merna Raafat Salem (@MernaSalem28), Yomna Khaled (@yomna98), C
 
 ### **Infographic summary:**
 
-### As a pdf file <https://github.com/MernaSalem/hackbio-cancer-internship-/blob/main/Infographic%20summary/Infographic%20summary%20WHO%20AMR%20Products%20Data%20Analysis%20(2).pdf>
+### As a pdf file 
+<https://github.com/MernaSalem/hackbio-cancer-internship-/blob/main/Infographic%20summary/Infographic%20summary%20WHO%20AMR%20Products%20Data%20Analysis%20(2).pdf>
 
 As a markdown file
-
 <https://github.com/MernaSalem/hackbio-cancer-internship-/blob/main/Infographic%20summary/Infograph.md>
 
 
-### **R script:** <https://github.com/MernaSalem/hackbio-cancer-internship-/blob/main/Cleaning%20and%20Visualization%20WHO%20AMR%20Stage2.R>
+### **R script:** 
+<https://github.com/MernaSalem/hackbio-cancer-internship-/blob/main/Cleaning%20and%20Visualization%20WHO%20AMR%20Stage2.R>
 
 This report outlines the analysis and key insights extracted from the WHO Antimicrobial Resistance (AMR) products dataset.
 
