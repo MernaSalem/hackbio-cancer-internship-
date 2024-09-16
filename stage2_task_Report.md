@@ -14,7 +14,7 @@ Authors (@slack): Merna Raafat Salem (@MernaSalem28), Yomna Khaled (@yomna98), C
 ### As a pdf file 
 <https://github.com/MernaSalem/hackbio-cancer-internship-/blob/main/Infographic%20summary/Infographic%20summary%20WHO%20AMR%20Products%20Data%20Analysis%20(2).pdf>
 
-As a markdown file
+### As a markdown file
 <https://github.com/MernaSalem/hackbio-cancer-internship-/blob/main/Infographic%20summary/Infograph.md>
 
 
