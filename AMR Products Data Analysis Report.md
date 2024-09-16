@@ -27,7 +27,7 @@ This report outlines the analysis and key insights extracted from the WHO Antimi
 
 ## **Interactive Charts for Enhanced Understanding**
 
-## Within the code, you’ll find several interactive charts to provide deeper insights and enhance your understanding of the AMR product data. such as the distribution of R\&D phases, product types, and developer contributions.
+ Within the code, you’ll find several interactive charts to provide deeper insights and enhance your understanding of the AMR product data. such as the distribution of R\&D phases, product types, and developer contributions.
 
 ## **Key Insights and Summary**
 
@@ -35,13 +35,13 @@ This report outlines the analysis and key insights extracted from the WHO Antimi
    The dataset reveals that 57.2% of the products are Antibiotics, while 42.8% are Non-traditional  products, such as bacteriophages. This significant presence of non-traditional products shows that there is a growing focus on alternative approaches to combating AMR, an important trend in addressing resistance mechanisms that evade conventional antibiotics
 
 **2\. R\&D Phases:**  
-   The majority of products are still in early development. Specifically, \*\*46.3%\*\* of the products are in Phase I, followed by 27.8% in Phase II, and 21.8% in Phase III. Only 4.04% have reached the pre-registration phase. This distribution highlights the bottleneck in advancing products from early research to later stages of clinical trials, a common challenge in pharmaceutical R\&D .
+   The majority of products are still in early development. Specifically, 46.3% of the products are in Phase I, followed by 27.8% in Phase II, and 21.8% in Phase III. Only 4.04% have reached the pre-registration phase. This distribution highlights the bottleneck in advancing products from early research to later stages of clinical trials, a common challenge in pharmaceutical R\&D .
 
 **3\. Key Indications and Bacteria:**  
    Gram-negative infections are a significant focus of many of these products. These infections are particularly dangerous due to the high resistance rate and the limited number of effective antibiotics available, emphasizing the urgent need for novel treatments.
 
 **4\. Top Developers:**  
-   Among the key players in AMR product development, companies like \*\*Qpex\*\* and \*\*GSK\*\* emerge as top contributors. These developers are leading the charge in both traditional antibiotics and non-traditional approaches.
+   Among the key players in AMR product development, companies like Qpex and GSK emerge as top contributors. These developers are leading the charge in both traditional antibiotics and non-traditional approaches.
 
 **5\. Top Antibacterial Classes:**  
    A breakdown of the antibacterial products reveals a concentrated effort on specific drug classes, reflecting the industry's prioritization of therapies targeting resistant bacterial strains.
