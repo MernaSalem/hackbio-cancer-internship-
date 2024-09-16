@@ -3,6 +3,10 @@
 Authors (@slack): Merna Raafat Salem (@MernaSalem28), Yomna Khaled (@yomna98), Chijioke C. Uhegwu (@Chijioke001), Olorunfemi Omobolade (@Olorunfemi), Elizabeth Sayo (@Sayo)  
 —----------------------------------------------------------------------------------------------------------------------------------
 
+## **Project files**
+Infographic summary : https://github.com/MernaSalem/hackbio-cancer-internship-/blob/main/Infographic%20summary%20WHO%20AMR%20Products%20Data%20Analysis%20(2).pdf
+R scribt : https://github.com/MernaSalem/hackbio-cancer-internship-/blob/main/Cleaning%20and%20Visualization%20WHO%20AMR%20Stage2.R
+
 This report outlines the analysis and key insights extracted from the WHO Antimicrobial Resistance (AMR) products dataset. 
 
 ## **Data Preparation and Cleaning**
@@ -30,6 +34,8 @@ This report outlines the analysis and key insights extracted from the WHO Antimi
  Within the code, you’ll find several interactive charts to provide deeper insights and enhance your understanding of the AMR product data. such as the distribution of R\&D phases, product types, and developer contributions.
 
 ## **Key Insights and Summary**
+
+
 
 **1\. Product Distribution:**   
    The dataset reveals that 57.2% of the products are Antibiotics, while 42.8% are Non-traditional  products, such as bacteriophages. This significant presence of non-traditional products shows that there is a growing focus on alternative approaches to combating AMR, an important trend in addressing resistance mechanisms that evade conventional antibiotics
