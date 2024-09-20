@@ -2,7 +2,7 @@
 
 ## **Cholera outbreaks Data Analysis Report**
 
-Authors (@slack): Merna Raafat Salem (@MernaSalem28), Sarani Nativel-Santerne (@Sarani)\
+Authors (@slack): Merna Raafat Salem (@MernaSalem28), Sarani Nativel-Santerne (@Sarani)
 
 
 
@@ -15,7 +15,7 @@ Authors (@slack): Merna Raafat Salem (@MernaSalem28), Sarani Nativel-Santerne (@
 
 ### **Visualizations:**
 <https://github.com/MernaSalem/hackbio-cancer-internship-/tree/main/Stage-3/Visualizations>
-Note : for interactive visualizations run the code and they will be downloaded to your pc
+                                          Note : for interactive visualizations run the code and they will be downloaded to your pc
 
 This report outlines the outbreaks and key insights extracted from the WHO Cholera Outbreak Data since 1949.
 
