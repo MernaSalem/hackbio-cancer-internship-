@@ -35,7 +35,6 @@ Note : for interactive visualizations run the code and they will be downloaded t
 **Further Improvement:** By the **1970s**, deaths decreased substantially, reaching **3,420 deaths** by **2016**.
 
 ### **3. Fatality Rate: In 1957:** Fatality rate peaked at **90.46**.
-
-                       And between 1954-1955: Rates fluctuated, with 87.46 in 1954 and 32.56 in 1955.
+And between 1954-1955: Rates fluctuated, with 87.46 in 1954 and 32.56 in 1955.
 
 #### **3.1 Reduction Over Time:** By **2016**, the fatality rate had decreased to **0.4**.
