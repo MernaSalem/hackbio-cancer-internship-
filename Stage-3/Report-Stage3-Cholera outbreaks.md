@@ -19,7 +19,7 @@ Authors (@slack): Merna Raafat Salem (@MernaSalem28), Sarani Nativel-Santerne (@
 Note : for interactive visualizations run the code and they will be downloaded to your pc
 
 
-This report outlines the outbreaks and key insights extracted from the WHO Cholera Outbreak Data since 1949.
+## This report outlines the outbreaks and key insights extracted from the WHO Cholera Outbreak Data since 1949.
 
 Cholera is a severe diarrheal disease caused by the bacterium _Vibrio cholerae_, leading to significant morbidity and mortality, especially in regions with inadequate sanitation. Since its first recorded outbreaks, cholera has emerged as a global health threat, prompting ongoing surveillance and response efforts.
 
