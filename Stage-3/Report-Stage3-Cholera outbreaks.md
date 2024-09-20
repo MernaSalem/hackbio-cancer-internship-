@@ -1,6 +1,6 @@
 <!--StartFragment-->
 
-  **Cholera outbreaks Data Analysis Report**
+  ##**Cholera outbreaks Data Analysis Report**
 
 Authors (@slack): Merna Raafat Salem (@MernaSalem28), Sarani Nativel-Santerne (@Sarani)\
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -44,7 +44,7 @@ Within the code, you’ll find all charts are interactive to provide deeper insi
 
 Ex: fatality rate, deaths and cases over time( line plots ) , number of cases and deaths for the countries …ect. 
 
-\
+
 
 
 
