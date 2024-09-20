@@ -9,6 +9,7 @@ Authors (@slack): Merna Raafat Salem (@MernaSalem28), Sarani Nativel-Santerne (@
 ## **Project files**
 
 ### **Summary:**
+<https://github.com/MernaSalem/hackbio-cancer-internship-/blob/main/Stage-3/Summary-Stage3-Cholera%20outbreaks.md>
 
 ### **R script:** 
 <https://github.com/MernaSalem/hackbio-cancer-internship-/blob/main/Stage-3/cholera%20outbreaks%20-Stage3.R>
