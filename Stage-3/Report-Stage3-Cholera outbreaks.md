@@ -1,6 +1,6 @@
 <!--StartFragment-->
 
-  ##**Cholera outbreaks Data Analysis Report**
+  **Cholera outbreaks Data Analysis Report**
 
 Authors (@slack): Merna Raafat Salem (@MernaSalem28), Sarani Nativel-Santerne (@Sarani)\
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -16,7 +16,7 @@ Authors (@slack): Merna Raafat Salem (@MernaSalem28), Sarani Nativel-Santerne (@
 ### **Visualizations:**
 <https://github.com/MernaSalem/hackbio-cancer-internship-/tree/main/Stage-3/Visualizations>
 
-        Note : for interactive visualizations run the code and they will be downloaded to your pc
+ Note : for interactive visualizations run the code and they will be downloaded to your pc
 
 This report outlines the outbreaks and key insights extracted from the WHO Cholera Outbreak Data since 1949.
 
@@ -54,19 +54,7 @@ Ex: fatality rate, deaths and cases over time( line plots ) , number of cases an
 
 \
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXduuSmBsY4CzdXTHqQKdhp8XV3K_lVF_Lq4CNWW5HxF5As3ydHMhtJvqIZs4V2JolUMgZJf3s6ZiY6GKHWvon9m1xVFmo6LwsOjmKjIqCN8ka_DgUvysbN0eIourhQ6aFNg5o2PkOVbtxqPAw2Bvc4ficE9?key=9irNdePrIi3O8acveYP2sA)\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
+
 
 
 **1.1 Top 3 countries in recorded number cases:**
