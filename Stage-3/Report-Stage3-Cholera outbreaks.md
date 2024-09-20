@@ -52,7 +52,7 @@ Ex: fatality rate, deaths and cases over time( line plots ) , number of cases an
 
 **1- Cases caused by cholera :**
 
-\
+
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXduuSmBsY4CzdXTHqQKdhp8XV3K_lVF_Lq4CNWW5HxF5As3ydHMhtJvqIZs4V2JolUMgZJf3s6ZiY6GKHWvon9m1xVFmo6LwsOjmKjIqCN8ka_DgUvysbN0eIourhQ6aFNg5o2PkOVbtxqPAw2Bvc4ficE9?key=9irNdePrIi3O8acveYP2sA)\
 
 
@@ -65,8 +65,7 @@ Ex: fatality rate, deaths and cases over time( line plots ) , number of cases an
 
 - Peru 736.195 K
 
-\
-\
+
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXed4gV33Ppt-tUqK3QGvMBXEDLKs5EP2QzistJiXQUXudjGZtu28hI4UlcHxo71um1dtx4enq8XoLamExJIhI0G9C8_1lQFZbOPreVwkEb0FYk5CqJcO38GotlHhUpsiQbgN9GaYjmEPF-jRoG-SytondH8?key=9irNdePrIi3O8acveYP2sA)\
 \
 \
