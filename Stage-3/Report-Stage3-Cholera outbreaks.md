@@ -1,6 +1,6 @@
 <!--StartFragment-->
 
-Cholera outbreaks Data Analysis Report
+  **Cholera outbreaks Data Analysis Report**
 
 Authors (@slack): Merna Raafat Salem (@MernaSalem28), Sarani Nativel-Santerne (@Sarani)\
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -10,9 +10,11 @@ Authors (@slack): Merna Raafat Salem (@MernaSalem28), Sarani Nativel-Santerne (@
 
 ### **Summary:**
 
-### **R script:** <https://github.com/MernaSalem/hackbio-cancer-internship-/blob/main/Stage-3/cholera%20outbreaks%20-Stage3.R>
+### **R script:** 
+<https://github.com/MernaSalem/hackbio-cancer-internship-/blob/main/Stage-3/cholera%20outbreaks%20-Stage3.R>
 
-### **Visualizations:** <https://github.com/MernaSalem/hackbio-cancer-internship-/tree/main/Stage-3/Visualizations>
+### **Visualizations:**
+<https://github.com/MernaSalem/hackbio-cancer-internship-/tree/main/Stage-3/Visualizations>
 
         Note : for interactive visualizations run the code and they will be downloaded to your pc
 
