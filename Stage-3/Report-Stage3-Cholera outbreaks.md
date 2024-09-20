@@ -146,8 +146,4 @@ Ex: fatality rate, deaths and cases over time( line plots ) , number of cases an
 ## **Conclusion:**
 
 This report highlights key insights from the WHO Cholera Outbreak Data, revealing critical trends in case numbers and fatality rates across various countries since 1949. The data emphasizes the ongoing challenge of cholera, particularly in regions like India and Haiti, and underscores the importance of effective public health interventions to mitigate future outbreaks. Our interactive visualizations enhance understanding of these trends, aiding in better preparedness and response strategies.
-\
-\
-
-
 <!--EndFragment-->
