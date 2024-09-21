@@ -1,6 +1,6 @@
 <!--StartFragment-->
 
-#### Stage 3 AMR tasks
+##                    Stage 3 AMR tasks
 
 Authors (@slack): Merna Raafat Salem (@MernaSalem28), Sarani Nativel-Santerne (@Sarani)
 
