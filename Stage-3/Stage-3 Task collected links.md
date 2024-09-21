@@ -1,6 +1,6 @@
 <!--StartFragment-->
 
-Stage 3 AMR tasks
+#### Stage 3 AMR tasks
 
 Authors (@slack): Merna Raafat Salem (@MernaSalem28), Sarani Nativel-Santerne (@Sarani)
 
@@ -24,7 +24,6 @@ Authors (@slack): Merna Raafat Salem (@MernaSalem28), Sarani Nativel-Santerne (@
 
 6- R script link : <https://github.com/MernaSalem/hackbio-cancer-internship-/blob/main/Stage-3/cholera%20outbreaks%20-Stage3.R>
 
-\
 
 
 <!--EndFragment-->
