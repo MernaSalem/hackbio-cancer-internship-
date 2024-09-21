@@ -7,7 +7,7 @@ Authors (@slack): Merna Raafat Salem (@MernaSalem28), Sarani Nativel-Santerne (@
 
 ## Phase I
 
-1- Doc link : <https://docs.google.com/document/d/1LQiNudWpJmjf71Vb-QrMkF2MbkZ6MMCiPm3nO30z-tI/edit#heading=h.6o1oyespi2s2>
+1- Document link : <https://docs.google.com/document/d/1LQiNudWpJmjf71Vb-QrMkF2MbkZ6MMCiPm3nO30z-tI/edit#heading=h.6o1oyespi2s2>
 
 2- Merna’s Github : <https://github.com/MernaSalem/hackbio-cancer-internship>
 
